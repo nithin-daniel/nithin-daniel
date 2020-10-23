@@ -485,6 +485,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   text-align: center;
   font-weight: 700;
   margin-bottom: 45px;
+  padding-top:30px;
+  
 }
 
 .section-header .section-description {
@@ -594,12 +596,30 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 14px;
 }
 
+/* Progress */
+
+.section-progress{
+  font-size: 32px;
+  color: #111;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 700;
+  margin-bottom: 45px;
+
+
+}
+
+
+
+
+
 /* Services Section
 --------------------------------*/
 #services {
   background: #fff;
   background-size: cover;
   padding: 80px 0 60px 0;
+  
 }
 
 #services .box {
@@ -666,6 +686,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 14px;
   line-height: 24px;
 }
+
+
 
 /* Call To Action Section
 --------------------------------*/
