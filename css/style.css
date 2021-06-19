@@ -1006,3 +1006,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   font: 100px;
   
 }
+.credits a{
+  color: #fff;
+}
