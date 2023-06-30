@@ -504,7 +504,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #about .about-container .background {
   min-height: 460px;
-  background: url('https://github.com/nithindaniel1/nithindaniel1.github.io/blob/master/img/my-image-3.jpg') center top no-repeat;
+  background: url(https://github.com/nithindaniel1/nithindaniel1.github.io/blob/master/img/my-image-3.jpg) center top no-repeat;
   margin-bottom: 10px;
   margin-top: 1px;
 }
